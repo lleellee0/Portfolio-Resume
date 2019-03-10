@@ -83,7 +83,7 @@
     - Github 11 Stars, 7 Forks
 
 
-- [Tistory-Fraud](https://github.com/lleellee0/simple-file-share)
+- [Tistory-Fraud](https://github.com/lleellee0/tistory-fraud)
   - 기술 스택: Node.js(puppeteer), 크롤링, 어뷰징, 로그분석
   - 기간: 2018/12 ~ 2019/01
   - 설명
