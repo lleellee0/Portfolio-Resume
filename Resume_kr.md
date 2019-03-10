@@ -119,4 +119,4 @@
 - 경기대학교 정보보안동아리 활동(2014~2016)
 - **N사 세션 관련 취약점 제보(KVE-2019-0499)** 2019/02
 - [Youtube](https://www.youtube.com/channel/UCllHCWlvywBaFsH0odw-FUg) 영상 업로드
-- [OKKY](https://okky.kr/user/info/38042), [steemit](https://steemit.com/@foorogrammer) 등 커뮤니티 활동
+- [OKKY](https://okky.kr/user/info/38042), [steemit](https://steemit.com/@foorogrammer), [Tistory](https://iwantadmin.tistory.com/) 등 커뮤니티 & 블로그 활동
