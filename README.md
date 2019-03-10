@@ -9,4 +9,4 @@
 - [Github](https://github.com/lleellee0)
 - [Youtube](https://www.youtube.com/channel/UCllHCWlvywBaFsH0odw-FUg)
 - lleellee013@gmail.com
-- [이력서](https://github.com/lleellee0)
+- [이력서](https://github.com/lleellee0/Portfolio-Resume/blob/master/Resume_kr.md)
