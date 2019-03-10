@@ -12,7 +12,7 @@
   - 통신소대장으로 군 복무중 2017/03 ~ 2019/06 전역예정
 
 ### 경험
-- [Modi(Luxrobo)](https://modi.luxrobo.com/) Modi Studio 개발(Electron 기반) 2016/07 ~ 2016/08
+- [Modi(Luxrobo)](https://modi.luxrobo.com/){:target="_blank"} Modi Studio 개발(Electron 기반) 2016/07 ~ 2016/08
   - Node.js, Electron, SASS(CSS)
   
 ### 기술 스택
