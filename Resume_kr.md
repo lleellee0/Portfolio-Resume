@@ -119,5 +119,5 @@
 - ["비트코인을 활용한 효율적 전자화폐 활성화 방안"(2016)](http://www.ndsl.kr/ndsl/search/detail/article/articleSearchResultDetail.do?cn=JAKO201622341791214) KCI 논문 게재
 - 경기대학교 정보보안동아리 활동(2014~2016)
 - **N사 세션 관련 취약점 제보(KVE-2019-0499)** 2019/02
-- [Youtube](https://www.youtube.com/channel/UCllHCWlvywBaFsH0odw-FUg) 영상 업로드
+- [Youtube](https://www.youtube.com/channel/UCllHCWlvywBaFsH0odw-FUg)에 크롤링 관련 채널 
 - [OKKY](https://okky.kr/user/info/38042), [steemit](https://steemit.com/@foorogrammer), [Tistory](https://iwantadmin.tistory.com/) 등 커뮤니티 & 블로그 활동
