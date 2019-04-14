@@ -42,8 +42,9 @@
   - 설명
     - Modi 블록을 컨트롤하기 위한 GUI 형태의 코딩 프로그램 개발
     - Electron으로 cross-platform 지원 개발
+    - 기여도 측정 어려움. 다만 당시 크로스플래폼으로 파일 입출력이 가능하도록 함수 제작, 디자이너와 코드 블럭 UI 협업 개발
    
-### 개인프로젝트 (시간순)
+### 개인프로젝트 (기여도 100%)
 
 - [HTML문서 10000개 워드 카운팅](https://github.com/lleellee0/Portfolio-Resume/raw/master/%EB%B6%84%EC%82%B0%EB%B0%8F%EB%B3%91%EB%A0%AC%EC%B2%98%EB%A6%AC.zip)
   - 기술 스택: Java, Linux, Mysql, 분산 및 병렬처리
@@ -51,15 +52,6 @@
   - 설명
     - 4개의 서버에 존재하는 10000개의 HTML 문서를 워드카운팅하기 위해 최적화 시키는 것
     - 중간에 3702초가 걸린 반면 최종적으로는 956초가 걸리도록 분산/최적화
-
-
-- [교내 CTF 사이트 제작](https://github.com/lleellee0/Portfolio-Resume/raw/master/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4%EC%84%A4%EA%B3%84.zip)
-  - 담당: 웹 프론트엔드, 백엔드 및 시스템 설계
-  - 기술 스택: Java(Spring), HTML, WebSocket, CORS, 웹 해킹
-  - 기간: 2016/09 ~ 2016/12
-  - 설명
-    - 웹 서비스설계 수업 프로젝트로 교내 CTF 사이트 제작
-    - WebSocket을 이용한 실시간 채팅 구현, CORS 이슈 트러블 슈팅
 
 
 - [학과 도서 및 기자재 대출 시스템 (LIVE)](http://202.182.96.36:8080/controller/)
@@ -70,15 +62,8 @@
     - iPhone의 경우 NFC 기능이 되지 않아서 QR Code 기능 제공
     - ADMIN에서 도서 추가 및 회원 추가 기능
     - 현재 동작 확인 가능
-    
-    
-- [#C0FFEE](https://rawcdn.githack.com/lleellee0/C0FFEE/5a4701de8c9cf24205e2a4b481b01f0052092bcf/index.html)
-  - 기술 스택: HTML, CSS, jQuery
-  - 기간: 2016/12
-  - 설명
-    - 간단한 색깔(색상 코드표) 맞추기 게임
-    
-    
+
+
 - [Bittrex 매집 체크 봇](https://github.com/lleellee0/bittrex-acc-bot)
   - 기술 스택: Node.js, MySQL, 크롤링(API 활용)
   - 기간: 2017/06 ~ 2017/07, 2019/03
@@ -87,13 +72,23 @@
     - 사용자 메뉴얼 제공
     - Github 11 Stars, 7 Forks
 
-
+    
 - [Tistory-Fraud](https://github.com/lleellee0/tistory-fraud)
   - 기술 스택: Node.js(puppeteer), 크롤링, 어뷰징, 로그분석
   - 기간: 2018/12 ~ 2019/01
   - 설명
     - 티스토리, 애드핏 대상 광고 시스템 어뷰징
-    
+
+
+
+### 토이프로젝트 (기여도 100%)
+
+- [#C0FFEE](https://rawcdn.githack.com/lleellee0/C0FFEE/5a4701de8c9cf24205e2a4b481b01f0052092bcf/index.html)
+  - 기술 스택: HTML, CSS, jQuery
+  - 기간: 2016/12
+  - 설명
+    - 간단한 색깔(색상 코드표) 맞추기 게임
+
 
 - [Naver-Webtoon-Downloader](https://github.com/lleellee0/naver-webtoon-downloader), [Daum-Webtoon-Downloader](https://github.com/lleellee0/daum-webtoon-downloader), [Youtube-Downloader](https://github.com/lleellee0/youtube-downloader)
   - 기술 스택: 크롤링, Electron, Node.js, referer 속이기
@@ -109,6 +104,7 @@
   - 설명
     - 간단한 대용량 파일 공유/전송
     - Electron을 통한 GUI 제공, 매우 간단
+
 
 - [Simple-Telegram-notify](https://github.com/lleellee0/simple-telegram-notify)
   - 기술 스택: Node.js, Telegram(Telebot)
