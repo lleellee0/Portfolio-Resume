@@ -16,17 +16,22 @@
   - Node.js, Electron, SASS(CSS)
   
 ### 기술 스택
-- Git & Sourcetree: 소스 버젼관리
-- HTML, CSS, Javascript: 백엔드로 구현한 것에 대하여 프론트 엔드에 보여줄 수 있음.
-- React: 코드 읽기 가능(setState 시 동작, VirtualDOM에 대한 이해 등)
-- Node.js: 간단한 여러 데모 프로젝트 작성, **크롤링 경험 많음**
-- Java(Spring): 학과 도서 대출 시스템(RFID, NFC 활용) 구축 경험
-- MySQL: 간단한 쿼리 작성 가능(UNION, JOIN, 간단한 프로시저 정도까지)
-- Linux: 리눅스 환경에서 코딩 경험 많음.
-- Secure Coding: 개발시 발생할 수 있는 취약점에 대한 이해 및 보안 코딩 가능
-- 취약점 진단: 1-DAY POC 작성 가능, N사 홈페이지 세션 관련 취약점 제보(KVE-2019-0499)
-- 암호학: AES, 해시, RSA 등 개발에 사용되는 암호학 관련 지식
-- Devops: Docker를 통한 CI/CD 공부중..([링크](https://iwantadmin.tistory.com/275))
+- 프론트엔드
+  - HTML, CSS, Javascript: 백엔드로 구현한 것에 대하여 프론트 엔드에 보여줄 수 있음.
+  - React: 코드 읽기 가능(setState 시 동작, VirtualDOM에 대한 이해 등)
+- 백엔드
+  - Node.js: 간단한 여러 데모 프로젝트 작성, **크롤링 경험 많음**
+  - Java(Spring): 학과 도서 대출 시스템(RFID, NFC 활용) 구축 경험
+  - MySQL: 간단한 쿼리 작성 가능(UNION, JOIN, 간단한 프로시저 정도까지)
+  - Devops: Docker를 통한 CI/CD 공부중..([링크](https://iwantadmin.tistory.com/275))
+- 기타
+  - Linux: 리눅스 환경에서 코딩 경험 많음.
+  - Git : 소스 버젼관리
+  - 보안
+    - Secure Coding: 개발시 발생할 수 있는 취약점에 대한 이해 및 보안 코딩 가능
+    - 취약점 진단: 1-DAY POC 작성 가능, N사 홈페이지 세션 관련 취약점 제보(KVE-2019-0499)
+    - 암호학: AES, 해시, RSA 등 개발에 사용되는 암호학 관련 지식
+
 
 ### 주요 프로젝트
 #### Modi(Luxrobo)
