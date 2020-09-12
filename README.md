@@ -2,7 +2,7 @@
 
 **포트폴리오 겸 이력서**
 
-보안하는 개발자 이준형입니다.
+개발자 이준형입니다.
 
 ### Link
 - [이력서](https://github.com/lleellee0/Portfolio-Resume/blob/master/Resume_kr.md)
